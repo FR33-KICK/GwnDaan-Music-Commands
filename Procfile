@@ -1,1 +1,1 @@
-worker: java $JAVA_OPTS -Dserver.port=$PORT -jar ideaprojects.jar --host=0.0.0.0 --port=$PORT
+worker: java -jar target/JMusicBot-0.3.4.jar
