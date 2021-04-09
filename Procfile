@@ -1,1 +1,1 @@
-web: java -jar target/myapp.jar
+web: java -jar target/JMusicBot-0.3.4 $PORT
