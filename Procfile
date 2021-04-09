@@ -1,1 +1,1 @@
-worker: java -jar target/JMusicBot-0.3.4.jar
+web: java -jar target/JMusicBot-0.3.4.jar
